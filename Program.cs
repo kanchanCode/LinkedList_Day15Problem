@@ -121,18 +121,6 @@ namespace practice_linkedlist
 
 
 
-
-
-
-
-
-
-
-
-
-
-            
-
             
         }
     }
