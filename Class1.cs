@@ -113,8 +113,6 @@ namespace practice_linkedlist
                 temp = temp.next;
             }
 
-
-
         }
 
         
